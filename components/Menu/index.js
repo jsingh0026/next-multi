@@ -11,7 +11,7 @@ function Menu() {
               {' '}
               <b>
                 {' '}
-                <Link href="/">English Setter Lovers</Link>{' '}
+                <Link href="/">English Setter Lovers - development</Link>{' '}
               </b>{' '}
             </Text>
             <Grid alignSelf="flex-end" gridTemplateColumns="repeat(2, 1fr)">
